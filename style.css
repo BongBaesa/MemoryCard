@@ -295,13 +295,13 @@ background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' heigh
     font-size: 26px;
     margin-bottom: 15px;
     font-family: 'Press Start 2P', cursive;
-    color: #ffffff; 
+    color: #000; 
 }
 
 .intro-modal p {
     font-size: 18px;
     margin-bottom: 15px;
-    color: #ffffff; 
+    color: #000; 
 }
 
 .intro-modal ul {
@@ -313,7 +313,7 @@ background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' heigh
     animation: fadeIn 1s forwards;
     animation-delay: 0.5s; 
     text-align: left;
-    color: #ffffff; 
+    color: #000; 
 }
 
 .intro-modal ul li {
