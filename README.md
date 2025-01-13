@@ -20,4 +20,4 @@ Welcome to the **Memory Card Game**, where improve minds and reflexes! Test your
 
 #
 
-==I JUST FOUND THIS ONLINE AND MADE A FEW ADJUSTMENTS==
+**I JUST FOUND THIS ONLINE AND MADE A FEW ADJUSTMENTS**
